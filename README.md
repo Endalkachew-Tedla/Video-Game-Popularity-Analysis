@@ -39,6 +39,6 @@ Here are some key points about the dataset to keep in mind:
 = Nintendo was the most popular Publisher across North America, Europe, and Japan.
 - Since 2010, sales in North America have been rapidly declining and don’t seem to be returning to previous sales records. However, NA does hold 49 percent of the global sales, which is a positive sign.
 
-**Final Project PDF**: Find a detailed report in the [Final Project PDF](https://github.com/isom17/InstaCartAnalysis/files/14471297/Exercise.3.10_RockBuster.Stealth.llc._Isom.Winton.1.pdf).
-
-This repository showcases not just technical SQL capabilities but also the ability to convert data into strategic business outcomes.
+**Final Project PDF**: 
+- Find a detailed report in the [Final Project PDF](https://github.com/Endalkachew-Tedla/Video-Game-Popularity-Analysis/blob/main/Final-Project-Presentation.pdf).
+- Please review the [Project Reflections PDF](https://github.com/Endalkachew-Tedla/Video-Game-Popularity-Analysis/blob/main/Project-Reflections%20(1).pdf) for insights and feedback on the completed project.
